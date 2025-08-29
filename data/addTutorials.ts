@@ -1,0 +1,10 @@
+// Add tutorial properties to remaining fundraisers
+export const additionalTutorials = {
+  '6': 'Basic tutorial for Talent Show fundraiser - recruit performers and acts, reserve venue with stage, set up sound and lighting, organize performance schedule, sell tickets to audience, and host talent show event.',
+  '7': 'Basic tutorial for Craft Fair fundraiser - recruit local crafters and vendors, set up vendor booths and displays, collect booth rental fees, organize volunteer shifts, promote fair to community, and host craft fair event.',
+  '8': 'Basic tutorial for Pancake Breakfast fundraiser - reserve venue with kitchen access, purchase pancake mix and toppings, set up cooking and serving stations, recruit cheerleaders as servers, promote breakfast to families, and cook and serve pancake breakfast.',
+  '9': 'Basic tutorial for Cheer Competition Viewing Party fundraiser - schedule around major cheer competitions, set up viewing area with large screen, prepare cheer-themed snacks and drinks, organize cheer trivia and games, sell tickets and concessions, and host viewing party with activities.',
+  '10': 'Basic tutorial for Cheerleader Skills Clinic fundraiser - recruit experienced cheerleaders as instructors, set up safe practice area with mats, plan age-appropriate skill sessions, register participants and collect fees, teach basic cheer skills and routines, and award certificates to participants.',
+  '11': 'Basic tutorial for School Festival fundraiser - secure school grounds and permits, coordinate cheerleader performance schedule, set up game booths and food stations, organize volunteer shifts for all activities, promote festival to community, and host multi-day festival event.',
+  '12': 'Basic tutorial for Soup Contest & Auction fundraiser - recruit soup contestants from community, gather auction items and donations, set up tasting stations and auction display, organize cheerleader judges panel, host soup tasting and voting, and conduct silent auction with cheerleader auctioneers.'
+};
